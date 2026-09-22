@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Intermediate & temporary outputs
+fractal_output/
+cli_output/
+demo_results/
+online_raw/
+
+# Large temporary files
+*.tmp
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+ehthumbs.db
